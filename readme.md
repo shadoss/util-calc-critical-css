@@ -1,6 +1,3 @@
-Certainly! Here's a README for your code:
-
----
 
 # CSS Size Validator
 
